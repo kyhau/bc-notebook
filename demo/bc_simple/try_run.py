@@ -7,16 +7,18 @@ random.seed(0)
 
 
 def make_sample_transaction(max_value=3):
-    # This will create valid transactions in the range of (1,max_value)
-    sign = int(random.getrandbits(1))*2 - 1   # This will randomly choose -1 or 1
+    # This will create valid transactions in the range of (1, max_value)
+
+    sign = int(random.getrandbits(1)) * 2 - 1   # This will randomly choose -1 or 1
     amount = random.randint(1, max_value)
     alice_pays = sign * amount
-    bob_pays = -1 * alice_pays
+    bobby_pays = -1 * alice_pays
+
     # By construction, this will always return transactions that respect the conservation of tokens.
     # However, note that we have not done anything to check whether these overdraft an account
     return {
         "Alice": alice_pays,
-        "Bob": bob_pays
+        "Bobby": bobby_pays
     }
 
 
@@ -24,8 +26,8 @@ def main():
     """Sample run"""
 
     # Define the initial state
-    # Create accounts for our two users (Alice and Bob) and give them 50 coins each.
-    state = {"Alice": 50, "Bob": 50}
+    # Create accounts for our two users (Alice and Bobby) and give them 50 coins each.
+    state = {"Alice": 50, "Bobby": 50}
 
     # Create the "genesis block" (the first block in the system).
     chain = init_blockchain(initial_state=state)
