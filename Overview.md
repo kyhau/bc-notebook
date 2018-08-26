@@ -1,6 +1,26 @@
 # Overview
 
-**What makes blockchain so secure?**
+**Blockchain technology**, which uses math and cryptography, provides a open decentralised database of every
+transaction involving value; e.g. money, goods, property or work. 
+The authenticity of records can be verified by the entire community.
+
+The blockchain network is made out of interconnected **nodes**. 
+Every node owns a copy of blockchain, which is public and accessible to anyone in the network.
+The nodes are in charge of validating any transactions received. Once validated, the nodes broadcast the new block transaction to neighbouring until each one in the network has a copy of it.
+
+Like the name indicates, **Blockchain** is a chain of block containing information. Each block contains:
+1. data about the transaction, 
+1. the hash of the block, and
+1. the hash of the previous block.
+
+Each block is then linked to the previous block, creating a chain that can be traced to the first block ever created,
+ that is, the **Genesis block**.
+
+
+## What makes blockchain so secure?
+
+The approach of using hash, Proof of Work and peer-to-peer verification makes it mathematically impossible to fake
+transactions in blockchain. 
 
 1. Hash
 
@@ -13,12 +33,16 @@
 
 1. Proof of work (PoW)
 
-    A PoW is a common form of blockchain’s consensus mechanism at work.
-    Each new block must complete a PoW, which is then verified by other nodes in the network before its added to the
-    block.
-    A PoW involves generating a valid hash for the blockchain. As a cryptographic calculation like this is easy work
-    for a modern computer, in order to deter fraud, the network sets a level of difficulty to generate a hash by
-    limiting the number of valid hashes available.
+    Each new block must complete a Proof of Work, which is a small mathematical problem that is hard to solve but is
+    easy to verify. 
+    The protocol requires each new block to encrypt the message, create a unique and valid hash, and embed the hash of
+    the previous block. For Bitcoin, this is about 10 minutes.
+    
+    The Proof of Work is then verified by other nodes in the network before it is added to the block. 
+    
+    If the process of Proof of Work takes longer than the agreed amount of time, it will be rejected by everyone in the network.
+    
+    If the hash is found to not match other blocks in that blockchain it will also be rejected by the network.
 
 1. Peer-to-peer verification
 
@@ -29,14 +53,14 @@
     1. A consensus (51%) of the network must agree that the new block is valid. 
     1. If the hash is found to not match other blocks in that blockchain it will be rejected by the network.
 
-**Genesis block**  
+### Genesis block
 
 A genesis block is the first block of a blockchain. Modern versions of Bitcoin number it as block 0, though very early versions counted it as block 1. The genesis block is almost always hardcoded into the software of the applications that utilize its blockchain. It is a special case in that it does not reference a previous block, and for Bitcoin and almost all of its derivatives, it produces an unspendable subsidy.
 
 [[Source]](https://en.bitcoin.it/wiki/Genesis_block)
 
 
-**How many transactions in one block (E.g. Bitcoin)?**
+### How many transactions in one block (E.g. Bitcoin)?
 
 Transactions are broadcasted by anyone in the system and at random intervals. 
 Which transactions, of all the ones broadcasted, are included is very dependent on the miner, as he/she is the one who
