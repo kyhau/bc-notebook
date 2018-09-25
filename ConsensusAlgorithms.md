@@ -12,7 +12,7 @@ https://cdn-images-1.medium.com/max/1200/1*H_0bNWW-SCYoHIVm75ZA1Q.png)
 
 Source: [1]
 
-![Image of An overview of various types of blockchain with consensus algorithms used by them](
+![Image of Consensus Algorithms used by various types of blockchains 2](
 https://cdn-images-1.medium.com/max/1200/1*AVdkof1bXWAVSVyUJPxIiA.png)
 
 Source: [1]
