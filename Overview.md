@@ -1,6 +1,6 @@
 # Overview
 
-**Blockchain technology**, which uses math and cryptography, provides a open decentralised database of every
+**Blockchain technology**, which uses math and cryptography, provides a open decentralised ledger of every
 transaction involving value; e.g. money, goods, property or work. 
 The authenticity of records can be verified by the entire community.
 
