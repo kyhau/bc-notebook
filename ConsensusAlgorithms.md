@@ -24,10 +24,9 @@ https://cdn-images-1.medium.com/max/1200/1*AVdkof1bXWAVSVyUJPxIiA.png)
 
 Source: [1]
 
+### Comparison of the popular blockchain consensus mechanisms
 
-### A Comparison of the popular blockchain consensus mechanisms
-
-![Image of Comparison of the popular blockchain consensus mechanisms](
+![Image Comparison of the popular blockchain consensus mechanisms](
 https://cdn-images-1.medium.com/max/1200/1*WHoeBXgkw4GDDa_CtDRbqQ.png)
 
 Source: [1]
