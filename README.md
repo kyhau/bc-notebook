@@ -5,8 +5,8 @@ Subpages
 - [Bitcoin network](BitcoinNetwork.md)
 - [Consensus algorithms](ConsensusAlgorithms.md)
 - [Public, Private, Permissionless and Permissioned Blockchains](PrivatePublicPermissionedPermissionless.md)
+- [Storing data on blockchain](StoringDataOnBlockchain.md)
 - [Standards and regulatory barriers](Barriers.md)
-
 
 ## Comparison of Blockchain Platforms
 
