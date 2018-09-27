@@ -7,5 +7,5 @@ https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digita
 )
 
 Source: [Blockchain beyond the hype: What is the strategic business value?](
-https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value)
-, 2018-06
+https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value
+), 2018-06

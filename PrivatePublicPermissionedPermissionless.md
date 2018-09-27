@@ -2,16 +2,15 @@
 
 References:
 1. [Blockchain beyond the hype: What is the strategic business value?](
-https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value)
-, 2018-06
+https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value
+), 2018-06
 2. [Know which blockchain or DLT platform works well within your usecase:- Comparison of different Blockchain](
-https://medium.com/coinmonks/know-which-blockchain-or-dlt-platform-works-well-within-your-usecase-comparison-of-different-a8dc34782af3)
-, 2018-04-28
+https://medium.com/coinmonks/know-which-blockchain-or-dlt-platform-works-well-within-your-usecase-comparison-of-different-a8dc34782af3
+), 2018-04-28
 
 
 ![Image of Blockchain architecture options](
-https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Blockchain%20beyond%20the%20hype%20What%20is%20the%20strategic%20business%20value/SVGZ_Blockchain-beyond-the-hype_ex3.ashx
-)
+https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Blockchain%20beyond%20the%20hype%20What%20is%20the%20strategic%20business%20value/SVGZ_Blockchain-beyond-the-hype_ex3.ashx)
 
 Source: [1]
 

@@ -2,6 +2,7 @@
 
 Subpages
 
+- [Bitcoin network](BitcoinNetwork.md)
 - [Consensus algorithms](ConsensusAlgorithms.md)
 - [Public, Private, Permissionless and Permissioned Blockchains](PrivatePublicPermissionedPermissionless.md)
 - [Standards and regulatory barriers](Barriers.md)
@@ -18,8 +19,8 @@ https://primetrade.ai/wp-content/uploads/2018/08/blog_Comparison-of-Blockchain-P
 ## Blockchain is a type of Distributed Ledger Technology (DLT)
 
 Source: [What’s the difference between blockchain and DLT?](
-https://medium.com/nakamo-to/whats-the-difference-between-blockchain-and-dlt-e4b9312c75dd),
-Max Thake on 2018-02-08
+https://medium.com/nakamo-to/whats-the-difference-between-blockchain-and-dlt-e4b9312c75dd
+), Max Thake on 2018-02-08
 
 Distributed Ledger Technology is an umbrella term used to describe technologies which distribute records or information
 among all those using it, either privately or publicly.
