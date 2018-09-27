@@ -1,4 +1,4 @@
-# Overview
+# What is Blockchain?
 
 **Blockchain technology**, which uses math and cryptography, provides a open decentralised ledger of every
 transaction involving value; e.g. money, goods, property or work. 
@@ -6,7 +6,8 @@ The authenticity of records can be verified by the entire community.
 
 The blockchain network is made out of interconnected **nodes**. 
 Every node owns a copy of blockchain, which is public and accessible to anyone in the network.
-The nodes are in charge of validating any transactions received. Once validated, the nodes broadcast the new block transaction to neighbouring until each one in the network has a copy of it.
+The nodes are in charge of validating any transactions received. Once validated, the nodes broadcast the new block
+transaction to neighbouring until each one in the network has a copy of it.
 
 Like the name indicates, **Blockchain** is a chain of block containing information. Each block contains:
 1. data about the transaction, 
