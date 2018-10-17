@@ -2,9 +2,9 @@
 
 
 Table of Contents
-1. [Consensus Algorithms used by various types of blockchains](#Consensus-Algorithms-used-by-various-types-of-blockchains)
-2. [Comparision between various consensus algorithms based on various parameters](#Comparision-between-various-consensus-algorithms-based-on-various-parameters)
-3. [Comparison of the popular blockchain consensus mechanisms](#Comparison-of-the-popular-blockchain-consensus-mechanisms)
+1. [Consensus Algorithms used by various types of blockchains](#consensus-algorithms-used-by-various-types-of-blockchains)
+2. [Comparision between various consensus algorithms based on various parameters](#comparision-between-various-consensus-algorithms-based-on-various-parameters)
+3. [Comparison of the popular blockchain consensus mechanisms](#comparison-of-the-popular-blockchain-consensus-mechanisms)
 
 
 References:

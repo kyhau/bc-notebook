@@ -1,10 +1,10 @@
 # Public, Private, Permissionless and Permissioned Blockchain
 
 Table of Contents
-- [Blockchain architecture options](#Blockchain-architecture-options)
-- [Comparision between Public and Private Blockchains](#Comparision-between-Public-and-Private-Blockchains)
-- [Comparision between Permissioned and Permissionless Blockchains](#Comparision-between-Permissioned-and-Permissionless-Blockchains)
-- [Comparision between Permissionless and Permissioned, Public and Private Blockchains](#Comparision-between-Permissionless-and-Permissioned-Public-and-Private-Blockchains)
+- [Blockchain architecture options](#blockchain-architecture-options)
+- [Comparision between Public and Private Blockchains](#comparision-between-public-and-private-blockchains)
+- [Comparision between Permissioned and Permissionless Blockchains](#comparision-between-permissioned-and-permissionless-blockchains)
+- [Comparision between Permissionless and Permissioned, Public and Private Blockchains](#comparision-between-permissionless-and-permissioned-public-and-private-blockchains)
 
 
 References:
