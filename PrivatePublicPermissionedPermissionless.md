@@ -8,6 +8,43 @@ https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockc
 https://medium.com/coinmonks/know-which-blockchain-or-dlt-platform-works-well-within-your-usecase-comparison-of-different-a8dc34782af3
 ), 2018-04-28
 
+---
+
+- **Permissionless Blockchain**:
+   - Every node in the network participate in consensus procedure.
+   - Examples: Bitcoin Blockchain (Proof of Work)
+
+- **Permissioned Blockchain**: 
+   - Only selected nodes (validators, e.g. Government or trusted nodes) participate in consensus procedure.
+   - Examples: Hyperledger Blockchain
+
+- **Public Blockchain**:
+   - Anyone in the world can download the data and read the data.
+   - Anyone can participate in the consensus process to write the data or block into the public blockchain.
+   - It is highly secured using cryptography and consensus protocol.
+   - Examples:  Bitcoin, Ethereum, Dash, Lisk, Factom, Blockstream
+
+- **Consortium Blockchain**:
+   - Consortium Blockchain is controlled by a consortium of members. It has pre-defined set of nodes, the users with
+     access to write the data or block. For example, in the case of Trade Finance use case, the consortium may be
+     participating banks, importer, exporter, ports of sending and receiving countries, custom officials etc. 
+     Some of these participants will have write access and some or all will have read access.
+   - It is not fully decentralized as public blockchain.
+   - Examples : Ripple, R3
+
+- **Private Blockchain**:
+   - In Private Blockchain, all permissions are kept centralized to an organization. Companies who wanted to create own
+     currencies started using this type of Blockchain.
+   - One major criticism of Private Blockchain is that since it is not decentralized, it’s just a distributed database.
+     There are some points in favor of this approach.
+   - One it allows some organizations who have compliance and privacy
+     requirements to implement Blockchain.
+   - Second, it adds the values like cryptographic auditing and known identities to the internal processes. 
+   - But with private Blockchain, the central idea and beauty of decentralization and open protocols gets lost.
+   - Examples :  Multichain, Blockstack
+
+---
+
 
 ![Image of Blockchain architecture options](
 https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Blockchain%20beyond%20the%20hype%20What%20is%20the%20strategic%20business%20value/SVGZ_Blockchain-beyond-the-hype_ex3.ashx)
