@@ -1,5 +1,12 @@
 # Public, Private, Permissionless and Permissioned Blockchain
 
+Table of Contents
+- [Blockchain architecture options](#Blockchain-architecture-options)
+- [Comparision between Public and Private Blockchains](#Comparision-between-Public-and-Private-Blockchains)
+- [Comparision between Permissioned and Permissionless Blockchains](#Comparision-between-Permissioned-and-Permissionless-Blockchains)
+- [Comparision between Permissionless and Permissioned, Public and Private Blockchains](#Comparision-between-Permissionless-and-Permissioned-Public-and-Private-Blockchains)
+
+
 References:
 1. [Blockchain beyond the hype: What is the strategic business value?](
 https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value
@@ -9,6 +16,13 @@ https://medium.com/coinmonks/know-which-blockchain-or-dlt-platform-works-well-wi
 ), 2018-04-28
 
 ---
+
+## Blockchain architecture options
+
+![Image of Blockchain architecture options](
+https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Blockchain%20beyond%20the%20hype%20What%20is%20the%20strategic%20business%20value/SVGZ_Blockchain-beyond-the-hype_ex3.ashx)
+
+Image Source: [1]
 
 - **Permissionless Blockchain**:
    - Every node in the network participate in consensus procedure.
@@ -43,17 +57,10 @@ https://medium.com/coinmonks/know-which-blockchain-or-dlt-platform-works-well-wi
    - But with private Blockchain, the central idea and beauty of decentralization and open protocols gets lost.
    - Examples :  Multichain, Blockstack
 
----
+Source: [2]
 
 
-![Image of Blockchain architecture options](
-https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Blockchain%20beyond%20the%20hype%20What%20is%20the%20strategic%20business%20value/SVGZ_Blockchain-beyond-the-hype_ex3.ashx)
-
-Source: [1]
-
-
-
-### Comparision between Public and Private Blockchains
+## Comparision between Public and Private Blockchains
 
 ![Image of Public vs private blockchain](
 https://cdn-images-1.medium.com/max/1200/1*XPOuzE5tkPGARwYHblhcQg.png)
@@ -62,7 +69,7 @@ Source: [2]
 
 
 
-### Comparision between Permissioned and Permissionless Blockchains
+## Comparision between Permissioned and Permissionless Blockchains
 
 ![Image of Permissioned vs Permissionless blockchain](
 https://cdn-images-1.medium.com/max/1500/1*O6md1oKWYoM61pXscPQh4A.png)
@@ -70,10 +77,9 @@ https://cdn-images-1.medium.com/max/1500/1*O6md1oKWYoM61pXscPQh4A.png)
 Source: [2]
 
 
+## Comparision between Permissionless and Permissioned, Public and Priate Blockchains
 
-### Comparision between Permissionless and Permissioned, Public and Priate Blockchains
-
-![Image of Comparision between Permissionless and Permissioned, Public and Priate Blockchains](
+![Image of Comparision between Permissionless and Permissioned, Public and Private Blockchains](
 https://cdn-images-1.medium.com/max/1200/1*rRY9MH5kUDWI1xUPr8GRuQ.png)
 
 Source: [2]
