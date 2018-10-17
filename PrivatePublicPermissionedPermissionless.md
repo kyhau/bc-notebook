@@ -77,7 +77,7 @@ https://cdn-images-1.medium.com/max/1500/1*O6md1oKWYoM61pXscPQh4A.png)
 Source: [2]
 
 
-## Comparision between Permissionless and Permissioned, Public and Priate Blockchains
+## Comparision between Permissionless and Permissioned, Public and Private Blockchains
 
 ![Image of Comparision between Permissionless and Permissioned, Public and Private Blockchains](
 https://cdn-images-1.medium.com/max/1200/1*rRY9MH5kUDWI1xUPr8GRuQ.png)
